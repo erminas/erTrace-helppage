@@ -1,0 +1,19 @@
+@import "./color_schemes/light";
+
+img {
+  box-shadow: 0 0 0.5rem silver;
+}
+
+$link-color: #fd7400;
+
+$body-background-color: $white;
+
+$sidebar-color: #fbf6f2;
+$feedback-color: #fcefe5;
+
+$search-background-color: $white;
+
+$table-background-color: $white;
+$btn-primary-color: #fd7400;
+
+$header-height: 5rem;

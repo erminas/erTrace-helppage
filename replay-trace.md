@@ -6,8 +6,6 @@ nav_order: 2
 
 # Replay Trace
 
-<br>
-
 * Choose your Trace with the **"Select Trace"** button.
 
 ![selectionBar.png](assets/helpImages/ReplayTrace/selectionBar.png)

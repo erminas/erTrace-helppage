@@ -6,8 +6,6 @@ nav_order: 5
 
 # Delete Trace
 
-<br>
-
 * Click on the **"Options"** button of your Trace you want to delete.
 
 ![selectionBar.png](assets/helpImages/DeleteTrace/selectionBar.png)

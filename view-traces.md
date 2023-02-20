@@ -6,15 +6,13 @@ nav_order: 3
 
 # View Trace
 
-<br>
-
 * Click on the **Trace bar**.
 
 ![selectionBar.png](assets/helpImages/ViewTrace/selectionBar.png)
 
 Now your **Trace** has a graphical visualization with your declared sampling rate.
 
-![TraceView.png](assets/helpImages/ViewTrace/TraceView.png)
+![traceView.png](assets/helpImages/ViewTrace/traceView.png)
 
 In the headline you have your name of the Trace, the date the Trace was recorded, the duration and your main actions.
 

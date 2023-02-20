@@ -13,3 +13,6 @@ aux_links:
   erminas: https://erminas.de/
 plugins:
   - jekyll-default-layout
+
+exclude:
+  - pipeline/

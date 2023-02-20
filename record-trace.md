@@ -6,8 +6,6 @@ nav_order: 1
 
 # Record Trace
 
-<br>
-
 * Choose a **name** for your Trace by clicking into the box below.
     * If you don't choose a name for the Trace, we will name it automatically.
 

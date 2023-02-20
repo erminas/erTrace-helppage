@@ -6,8 +6,6 @@ nav_order: 4
 
 # Rename Trace
 
-<br>
-
 * Hit the **"Options"** button.
 
 ![selectionBar.png](assets/helpImages/RenameTrace/selectionBar.png)

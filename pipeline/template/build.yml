@@ -1,0 +1,3 @@
+steps:
+  - script: bundle exec jekyll build
+    displayName: 'bundle exec jekyll build'

@@ -1,0 +1,10 @@
+steps:
+  - task: UseRubyVersion@0
+    inputs:
+      versionSpec: '>= 2.5'
+      addToPath: true
+
+  - script: |
+      CALL gem install bundler
+      bundle install --retry=3 --jobs=4
+    displayName: 'bundle install'
